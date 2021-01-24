@@ -1,0 +1,13 @@
+C:\Users\mrjox\source\repos\CsApp\CsApp\bin\Debug\netcoreapp3.1\CsApp.exe
+C:\Users\mrjox\source\repos\CsApp\CsApp\bin\Debug\netcoreapp3.1\CsApp.deps.json
+C:\Users\mrjox\source\repos\CsApp\CsApp\bin\Debug\netcoreapp3.1\CsApp.runtimeconfig.json
+C:\Users\mrjox\source\repos\CsApp\CsApp\bin\Debug\netcoreapp3.1\CsApp.runtimeconfig.dev.json
+C:\Users\mrjox\source\repos\CsApp\CsApp\bin\Debug\netcoreapp3.1\CsApp.dll
+C:\Users\mrjox\source\repos\CsApp\CsApp\bin\Debug\netcoreapp3.1\CsApp.pdb
+C:\Users\mrjox\source\repos\CsApp\CsApp\obj\Debug\netcoreapp3.1\CsApp.csprojAssemblyReference.cache
+C:\Users\mrjox\source\repos\CsApp\CsApp\obj\Debug\netcoreapp3.1\CsApp.AssemblyInfoInputs.cache
+C:\Users\mrjox\source\repos\CsApp\CsApp\obj\Debug\netcoreapp3.1\CsApp.AssemblyInfo.cs
+C:\Users\mrjox\source\repos\CsApp\CsApp\obj\Debug\netcoreapp3.1\CsApp.csproj.CoreCompileInputs.cache
+C:\Users\mrjox\source\repos\CsApp\CsApp\obj\Debug\netcoreapp3.1\CsApp.dll
+C:\Users\mrjox\source\repos\CsApp\CsApp\obj\Debug\netcoreapp3.1\CsApp.pdb
+C:\Users\mrjox\source\repos\CsApp\CsApp\obj\Debug\netcoreapp3.1\CsApp.genruntimeconfig.cache
